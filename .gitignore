@@ -1,0 +1,15 @@
+# Virtual Environment
+Include/
+Lib/
+Scripts/
+etc/
+share/
+pyvenv.cfg
+
+# Python Cache & Jupyter Checkpoints
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Dataset Besar (Opsional, hapus jika Data/ ukurannya kecil)
+Data/
